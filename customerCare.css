@@ -1,0 +1,23 @@
+.careImage img{
+    width: 100%;
+    height: 450px;
+    padding-top: 15px;
+    
+}
+.careImage h2{
+    position: absolute;
+    top: 20%;
+    color: rgb(252, 251, 251);
+    padding: 12px;
+    width: 100%;
+padding-left: 150px;
+    font-size: 53px;
+    
+
+}
+.shipping{
+    text-align: justify;
+    padding-left: 22px;
+
+    
+}
